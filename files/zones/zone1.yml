@@ -1,0 +1,6 @@
+---
+id: "mysterious_dungeon"
+name: "Mysterious Dungeon"
+rooms:
+  - name: "room_1"
+    display: "Large Cavern"
