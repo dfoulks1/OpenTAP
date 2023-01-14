@@ -1,2 +1,2 @@
-# OpenTAP
+# OpenTextAdventure
 Open Text Adventure Parser
